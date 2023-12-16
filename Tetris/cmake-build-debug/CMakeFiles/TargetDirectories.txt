@@ -1,0 +1,3 @@
+/Users/tiume/Desktop/programmazione/C/047_SCARPA/PROJECT Clion REAL/cmake-build-debug/CMakeFiles/project_copia.dir
+/Users/tiume/Desktop/programmazione/C/047_SCARPA/PROJECT Clion REAL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tiume/Desktop/programmazione/C/047_SCARPA/PROJECT Clion REAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
